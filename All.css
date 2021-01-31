@@ -1,0 +1,21 @@
+body {
+    background-color: black; 
+    color: white;
+    }
+
+ a {
+    text-decoration:none;
+    color: white;
+    }
+
+ol {color:gray}
+
+.리스트 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+    }
